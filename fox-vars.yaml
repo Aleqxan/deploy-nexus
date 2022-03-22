@@ -1,0 +1,4 @@
+variables: 1.0.0
+location: /Users/aleqxan/fox-project/fox-app
+linux_name: fox
+user_home: /home/{{name}}
